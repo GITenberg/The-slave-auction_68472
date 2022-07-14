@@ -1,0 +1,25 @@
+_repo: The-slave-auction_68472
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kramer, John Theophilus
+    gutenberg_agent_id: '54787'
+    url: http://www.gutenberg.org/2009/agents/54787
+description: ''
+gutenberg_issued: '2022-07-08'
+identifiers:
+  gutenberg: '68472'
+language: en
+pgterms:marc905: 20220422192233kramer
+pgterms:marc906: '1859'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Robert F. Wallcut,1859.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The slave-auction
+url: http://www.gutenberg.org/ebooks/68472
