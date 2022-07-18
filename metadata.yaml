@@ -1,11 +1,16 @@
 _repo: The-slave-auction_68472
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68472-h/images/cover.jpg
 creator:
   author:
     agent_name: Kramer, John Theophilus
     gutenberg_agent_id: '54787'
     url: http://www.gutenberg.org/2009/agents/54787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68472#The-slave-auction
 gutenberg_issued: '2022-07-08'
 identifiers:
   gutenberg: '68472'
